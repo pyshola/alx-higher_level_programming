@@ -1,0 +1,2 @@
+-- Create database htbn_0c_0
+-- Check if htbn_0c_0 exist before creating
